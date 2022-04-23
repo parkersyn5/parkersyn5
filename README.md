@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=parkersyn5&style=flat)
 ![](https://img.shields.io/badge/loadstrings--used-1283-green?style=flat)
 ![](https://img.shields.io/badge/fail--count-13-critical)
+![](https://img.shields.io/badge/skids--killed-99999-informational)
 ![alt text](https://github.com/parkersyn5/parkersyn5/blob/main/carbo1n.png)
-![]()
