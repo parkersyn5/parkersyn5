@@ -1,6 +1,6 @@
 # parkersyn5
 
-![alt text](https://github.com/parkersyn5/parkersyn5/blob/main/carbon.png)
+![alt text](https://github.com/parkersyn5/parkersyn5/blob/main/carbo1n.png)
 
 ![parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkersyn5&show_icons=true&theme=dark)
 
