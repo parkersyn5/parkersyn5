@@ -2,4 +2,7 @@
 ![](https://img.shields.io/badge/loadstrings--used-1283-green?style=flat)
 ![](https://img.shields.io/badge/fail--count-13-critical)
 ![](https://img.shields.io/badge/skids--killed-99999-informational)
+![](https://img.shields.io/badge/prkrware--uses-763-success)
+![](https://img.shields.io/badge/christware--uses-812-orange)
+![](https://img.shields.io/badge/hours--spent-34-blueviolet)
 ![alt text](https://github.com/parkersyn5/parkersyn5/blob/main/carbo1n.png)
